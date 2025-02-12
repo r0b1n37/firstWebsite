@@ -1,2 +1,2 @@
 # firstWebsite
-trial website using HTML, CSS, and JavaScript
+trial website using HTML and CSS
