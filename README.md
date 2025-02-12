@@ -1,2 +1,2 @@
 # firstWebsite
-TBA original code. Cannot access it as of now.
+trial website using HTML, CSS, and JavaScript
