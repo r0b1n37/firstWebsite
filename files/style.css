@@ -1,0 +1,36 @@
+body {
+    background-image: url(images/background.jpg);
+    background-color: lightgray;
+    margin-top: 60px;
+    margin-left: 600px;
+    margin-right: 600px;
+    margin-bottom: 60px;
+}
+h1{
+    color:darkblue;
+}
+h2 {
+    text-shadow: 2px 3px 4px hsla(167, 0%, 23%, 0.81);
+}
+h4{
+    color:dimgray;
+}
+p{
+    color:dimgray;
+}
+* {
+    font-family: monospace;
+    font-weight: bold;
+}
+#img1{
+    float: left;
+    margin: 12px 10px 0px 0px;
+    border: solid white;
+}
+#img2 {
+    margin: 12px 0px 0px 0px;
+    float: right;
+}
+#list {
+    float: left;
+}
